@@ -2,11 +2,11 @@
 <h3 align="center">I am new to coding and am looking forward to sharpening my skills.</h3>
 <img align="right" alt= "coding" width="250" src= "https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-- 🌱 I’m currently learning **SQL,C++, Python**
+- 🌱 I’m currently learning **SQL,C++ & Python**
 
-- 📫 Feel free to connect with me via my gmail - **@maanvishadakshari21@gmail.com**
+- 📫 Feel free to connect with me via my gmail  **@maanvishadakshari21@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)
+- 📄 Know about my experiences at [https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)
 
 - ⚡ Fun fact **I love to dance!**
 
