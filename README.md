@@ -2,9 +2,9 @@
 <h3 align="center">I am new to coding and am looking forward to sharpening my skills.</h3>
 <img align="right" alt= "coding" width="250" src= "https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-- 🌱 I’m currently learning **SQL,C++ & Python**
+- 🌱 I’m currently learning **SQL, C++ & Python**
 
-- 📫 Feel free to connect with me via my gmail  **@maanvishadakshari21@gmail.com**
+- 📫 Feel free to connect with me via email  **@maanvishadakshari21@gmail.com**
 
 - 📄 Know about my experiences at [https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)
 
