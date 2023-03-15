@@ -6,7 +6,8 @@
 
 - 📫 Feel free to connect with me via email  **@maanvishadakshari21@gmail.com**
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)
+- 📄 Know about my experiences at 
+  [https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)
 
 - ⚡ Fun fact **I love to dance!**
 
