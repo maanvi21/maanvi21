@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original-wordmark.svg" alt="js" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/bootstrap/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">    <img src="./icons/CSS.svg" width="40" height="40/>  </a> 
   
   
   
