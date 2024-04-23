@@ -21,7 +21,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="[https://www.w3.org/js/](https://www.w3schools.com/whatis/img_js.png)" target="_blank" rel="noreferrer">
+  <a href="https://freepngdesign.com/content/uploads/images/javascript-logo-7539.png" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original-wordmark.svg" alt="js" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/bootstrap/" target="_blank" rel="noreferrer">
