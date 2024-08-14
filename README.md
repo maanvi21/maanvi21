@@ -2,7 +2,7 @@
 <h3 align="center">I am currently a first-year Computer Engineering student at Fr C Rodrigues Institute of Technology, Navi Mumbai.</h3>
 <img align="right" alt= "coding" width="250" src= "https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-- 🌱 I’m currently learning ** Flutter **
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 Feel free to connect with me via email  **@maanvishadakshari21@gmail.com**
 
