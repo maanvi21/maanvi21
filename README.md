@@ -44,17 +44,7 @@
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore"/>
 </p>
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maanvi21&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## 🔥 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanvi21&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
 
 ### 🤖 Machine Learning  
 <p align="left">
@@ -66,3 +56,15 @@
 
 ### ⚡ Fun Fact  
 💡 I love solving **LeetCode problems**, working on **cool tech projects**, and experimenting with **new frameworks**! 🚀  
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maanvi21&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 🔥 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanvi21&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
