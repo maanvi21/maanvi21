@@ -1,58 +1,55 @@
-<h1 align="center">Hi, I'm Maanvi! </h1>
-<h3 align="center">I am currently a second-year Computer Engineering student at Fr C Rodrigues Institute of Technology, Navi Mumbai.</h3>
-<img align="right" alt= "coding" width="250" src= "https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
+<h1 align="center">Hi, I'm Maanvi! 👋</h1>
+<h3 align="center">A passionate Computer Engineering student at Fr. C Rodrigues Institute of Technology, Navi Mumbai.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-- 📫 Feel free to connect with me via email  **@maanvishadakshari21@gmail.com**
+### 🚀 About Me  
+- 🌱 Currently learning **Flutter**  
+- 💡 Exploring **Full-Stack Development & Machine Learning**  
+- 📫 Connect with me via email **maanvishadakshari21@gmail.com**  
+- 📄 Check out my experiences on **[LinkedIn](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)**  
 
-- 📄 Know about my experiences at 
-  [https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🔗 Connect with Me  
 <p align="left">
-<a href="https://www.leetcode.com/maanvi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maanvi21" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-
-### 🌐 Frontend
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/>
+  <a href="https://www.leetcode.com/maanvi21" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
-### 🛠 Backend
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend Development  
 <p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
-### 🤖 Machine Learning
+### 🛠 Backend Development  
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
+### 🤖 Machine Learning  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+💡 I love solving **LeetCode problems**, working on **cool tech projects**, and experimenting with **new frameworks**! 🚀  
