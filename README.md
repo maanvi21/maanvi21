@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
 ### 🚀 About Me  
-- 🌱 Currently learning **Flutter**  
+- 🌱 Currently learning **AI**  
 - 💡 Exploring **Full-Stack Development & Machine Learning**  
 - 📫 Connect with me via email **maanvishadakshari21@gmail.com**  
 - 📄 Check out my experiences on **[LinkedIn](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)**  
