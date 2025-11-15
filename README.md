@@ -133,7 +133,7 @@ public class ArpitPawar : Developer
 }
 ```
 
-## 🏆 Achievement Unlocked
+## 🏆 Achievements Unlocked
 
 <div align="center">
 
@@ -179,6 +179,6 @@ public class ArpitPawar : Developer
 
 <div align="center">
   
-### 💬 "In a world full of players, be the one who creates the game."
+### "In a world full of players, be the one who creates the game."
 
 </div>
