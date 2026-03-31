@@ -1,17 +1,20 @@
-<h1 align="center">Hi, I'm Maanvi! 👋</h1>
-<h3 align="center">A passionate Computer Engineering student at Fr. C Rodrigues Institute of Technology, Navi Mumbai.</h3>
+<h1 align="center">Hi, I'm Maanvi 👋</h1>
+<h3 align="center">Computer Engineering Student & Entrepreneur | Building Scalable Systems & Intelligent Applications</h3>
 
-<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
+<img align="right" alt="Coding" width="280" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-### 🚀 About Me  
-- 🌱 Currently learning **AI**  
-- 💡 Exploring **Full-Stack Development & Machine Learning**  
-- 📫 Connect with me via email **maanvishadakshari21@gmail.com**  
-- 📄 Check out my experiences on **[LinkedIn](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)**  
+### 🚀 About Me
+- Passionate about designing **scalable, cloud-native systems** that can grow from prototype to millions of users.
+- Currently deepening my knowledge in **System Architecture**, **Distributed Systems**, and **Cloud Computing**.
+- Entrepreneur mindset — focused on shipping impactful solutions, not just learning frameworks.
+
+📫 **maanvishadakshari21@gmail.com**
+
+📄 **[LinkedIn](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)**
 
 ---
 
-## 🔗 Connect with Me  
+### 🔗 Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,54 +26,33 @@
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 
-### 🌐 Frontend Development  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-  <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-</p>
+**Frontend**  
+React.js • React Native • Flutter • JavaScript • HTML5 • CSS3 • Bootstrap
 
-### 🛠 Backend Development  
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore"/>
-</p>
+**Backend & Cloud**  
+Node.js • Express.js • MongoDB • AWS • Docker • Firebase
 
-### 🤖 Machine Learning  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
+**Machine Learning & AI**  
+Python • TensorFlow • OpenCV • CNN • NLP • LSTM • XGBoost
 
-### 🔧 Other Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+**Tools**  
+Git • GitHub • Figma
 
 ---
 
-### ⚡ Fun Fact  
-💡 I love solving **LeetCode problems**, working on **cool tech projects**, and experimenting with **new frameworks**! 🚀  
+### ⚡ What I'm Focused On
+- Architecting **scalable backend systems** and cloud infrastructure
+- Building production-ready **ML models** 
+- Experimenting with **distributed systems** and containerized applications
+- Solving algorithmic challenges on LeetCode while shipping actual products
 
-## 📊 GitHub Stats  
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maanvi21&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maanvi21&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
-## 🔥 Most Used Languages  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanvi21&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanvi21&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p>
