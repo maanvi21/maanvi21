@@ -10,5 +10,3 @@ Currently focusing on:
 
 I enjoy solving complex problems and shipping production-ready solutions.
 
-📫 **maanvishadakshari21@gmail.com**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/maanvi-shadakshari-5942b126a/)**
