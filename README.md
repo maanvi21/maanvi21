@@ -48,14 +48,3 @@ I enjoy solving complex problems and shipping production-ready solutions.
 **Core Skills**  
 System Architecture • Cloud-Native Design • CNN • NLP • LSTM • Distributed Systems
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=maanvi21&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanvi21&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
