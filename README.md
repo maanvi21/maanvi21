@@ -5,8 +5,8 @@ I'm a Computer Engineering student passionate about building **scalable systems*
 
 Currently focusing on:
 - System Architecture & Distributed Systems
-- Cloud Computing (AWS)
-- Full-Stack Development + Machine Learning
+- Cloud Computing 
+- Agentic AI + Machine Learning
 
 I enjoy solving complex problems and shipping production-ready solutions.
 
