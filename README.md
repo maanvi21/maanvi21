@@ -1,7 +1,7 @@
 # hi, i'm maanvi
 
 ```
-CS undergrad · ML & Data Engineering · Robotics ·I build things and ship them.
+CS undergrad · ML & Data Engineering · Robotics · I build things and ship them.
 ```
 
 ---
