@@ -39,5 +39,5 @@ Python · FastAPI · Node.js · React/Next.js · Docker · AWS · FAISS · Huggi
 
 ```
 # open to ML / Data Engineering roles and interesting problems
-> shadaksharimaanvi@gmail.com · linkedin.com/in/YOUR_HANDLE
+> shadaksharimaanvi@gmail.com · linkedin.com/in/maanvi-shadakshari/
 ```
