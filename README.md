@@ -2,12 +2,7 @@
 
 ```
 Cloud & Infra Engineer · AI/ML & GenAI · Full-Stack Builder
-B.Tech Computer Engineering (AI/ML Honours) · FCRIT · 9.09 CGPA
 ```
-
----
-
-I build the systems underneath the magic — cloud infrastructure, ML pipelines, and RAG systems that ship to production, not just notebooks. Six internships, four client contracts, one degree, zero patience for sitting still. Also run [Kode & Co.](https://www.kodeandco.online) — a freelance consultancy where I own delivery end-to-end, from client scoping to prod deployment.
 
 **stack**
 
