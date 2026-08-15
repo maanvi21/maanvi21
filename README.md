@@ -1,17 +1,21 @@
 # hi, i'm maanvi
 
 ```
-CS undergrad · ML & Data Engineering · DevOps · I build things and ship them.
+Cloud & Infra Engineer · AI/ML & GenAI · Full-Stack Builder
+B.Tech Computer Engineering (AI/ML Honours) · FCRIT · 9.09 CGPA
 ```
 
 ---
 
-I write pipelines, train models, and ship full-stack products. Currently deep in ML systems — predictive fault detection, RAG pipelines, forecasting dashboards. Also run a freelance venture ([kodeandco.online](https://kodeandco.online)) where I own everything from requirements to prod deployment.
+I build the systems underneath the magic — cloud infrastructure, ML pipelines, and RAG systems that ship to production, not just notebooks. Six internships, four client contracts, one degree, zero patience for sitting still. Also run [Kode & Co.](https://www.kodeandco.online) — a freelance consultancy where I own delivery end-to-end, from client scoping to prod deployment.
 
 **stack**
+
 ```
-Python · FastAPI · Node.js · React/Next.js · Docker · AWS · FAISS · HuggingFace · PyTorch
-# learning: Kubernetes · distributed systems · production ML at scale
+Python · FastAPI · Flask · Node.js · React/Next.js · React Native · Flutter
+AWS · GCP · Docker · Kubernetes · Firebase
+PyTorch · TensorFlow · HuggingFace · RAG · FAISS · Qdrant
+# learning: distributed systems · production ML at scale
 ```
 
 ---
@@ -19,25 +23,26 @@ Python · FastAPI · Node.js · React/Next.js · Docker · AWS · FAISS · Huggi
 **selected builds**
 
 ```
-→ predictive fault detection    K-Means + Random Forest · 95% acc · 98.7% ROC-AUC
-→ RAG pipeline                  FAISS + HuggingFace · chunking · semantic QA
-→ sales forecasting dashboard   LSTM–XGBoost ensemble · RMSE 488 on real data
-→ skin disease classifier       DenseNet121 + Grad-CAM · 22 conditions
-→ project management system     full-stack · RBAC · live client product
+→ production RAG pipeline        FastAPI + Qdrant + MinIO · staged system-design upgrades
+→ sales forecasting dashboard    LSTM–XGBoost ensemble · RMSE 488 · FastAPI + Next.js
+→ AI resume intelligence API     semantic matching + BERT NER + Gemini 2.5 · RAG-grounded
+→ ball bearing fault diagnosis   K-Means + Random Forest · 95% acc · 98.7% ROC-AUC
+→ AI email follow-up automation  agentic workflow engine · Grok API · live in production
+→ skin disease classifier        DenseNet121 + Grad-CAM · 22 conditions
 ```
 
-→ more on [Linkedin](https://www.linkedin.com/in/maanvi-shadakshari/)
+→ more on [portfolio](https://www.maanvishadakshari.co.in) · [GitHub](https://github.com/maanvi21) · [LinkedIn](https://www.linkedin.com/in/maanvi-shadakshari/) · [Behance](https://behance.net/maanvishadakshari)
 
 ---
 
 **currently**
-- ML intern @ FCRIT — predictive maintenance for industrial pumps
-- YOLO pipelines for ROBOCON 2026 @ Agnel Robotics Club
-- closing contracts @ Kode & Co.
+- Product Tech Fellow @ Tusk Oral Care — Tusk Kids landing page + mobile app (Apr 2026 – present, live)
+- Freelance project consultant @ Kode & Co. — 4+ client contracts closed, incl. CIBA Mumbai & Tusk Oral Care
+
 
 ---
 
 ```
-# open to ML / Data Engineering roles and interesting problems
-> shadaksharimaanvi@gmail.com · linkedin.com/in/maanvi-shadakshari/
+# open to AI/ML engineering, cloud & infra roles, and GenAI/RAG projects
+> shadaksharimaanvi@gmail.com · linkedin.com/in/maanvi-shadakshari · maanvishadakshari.co.in
 ```
