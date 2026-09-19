@@ -1,7 +1,7 @@
 # Hi, I'm Maanvi 👋
 
 ```text
-Cloud & Infra Engineer · AI/ML & GenAI · Full-Stack Builder
+GenAI & ML Engineer | Production RAG systems and AI agents for businesses.
 ```
 
 I build practical AI systems—from production-minded RAG pipelines and agentic workflows to computer-vision and forecasting applications. I enjoy turning prototypes into reliable, explainable products.
